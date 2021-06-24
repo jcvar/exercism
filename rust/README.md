@@ -20,3 +20,11 @@
 - [x] Series
 - [x] Collatz Conjecture
 - [x] Diffie Hellman
+
+# Medium
+- [ ] Clock
+- [ ] Anagram
+- [ ] Space Age
+- [ ] Sublist
+- [ ] Minesweeper
+- [ ] Luhn

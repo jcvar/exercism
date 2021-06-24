@@ -22,7 +22,8 @@
 - [x] Diffie Hellman
 
 # Medium
-- [ ] Clock
+- [x] Clock
+- [ ] Saddle Points
 - [ ] Anagram
 - [ ] Space Age
 - [ ] Sublist

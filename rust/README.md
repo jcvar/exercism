@@ -23,7 +23,7 @@
 
 # Medium
 - [x] Clock
-- [ ] Saddle Points
+- [x] Saddle Points
 - [ ] Anagram
 - [ ] Space Age
 - [ ] Sublist

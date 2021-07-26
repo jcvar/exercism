@@ -24,7 +24,8 @@
 # Medium
 - [x] Clock
 - [x] Saddle Points
-- [ ] Anagram
+- [x] Anagram
+- [ ] Protein Translation
 - [ ] Space Age
 - [ ] Sublist
 - [ ] Minesweeper
